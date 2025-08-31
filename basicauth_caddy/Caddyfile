@@ -1,0 +1,8 @@
+:2016
+
+{
+	basic_auth {
+		Bob $2a$14$khQnjBEJNYkC/.yKfUtA5.2XWZZw.fle67m62qYKr3u/zaf5b8YC2
+	}
+	respond "Hello world! You're authenticated." 200
+}
