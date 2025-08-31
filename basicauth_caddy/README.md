@@ -1,6 +1,6 @@
 ### Context
 * mini project: simple local example to get familiar with HTTP and basic auth
-* referencing local.example from [this video] (https://www.youtube.com/watch?v=rhi1eIjSbvk&ab_channel=OktaDev)
+* referencing local.example from [this video](https://www.youtube.com/watch?v=rhi1eIjSbvk&ab_channel=OktaDev)
 
 ### Final Rundown of how I did it
 * create a directory for running my Caddy server
