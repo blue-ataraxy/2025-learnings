@@ -10,7 +10,7 @@
 * edit Caddyfile to add basic auth (setting up basic auth)
 * check with curl request
     * first you need to turn your username:pw string into base64-encoded string. in terminal: echo -n “<string>” | base64
-    * curl localhost:2016 \ -H “Authorization: Basic <base64 string>”
+    * curl localhost:2016 \ -H "Authorization: Basic \<base64 string\>"
     * this should return the response from the server (e.g. “Hello world! You’re authenticated.”)
 * check in browser
     * refresh the page in browser
